@@ -1,0 +1,18 @@
+git
+
+copy NUL .gitconfig
+
+git config --list --global
+
+cd папка
+
+git clone адрес репозитория
+
+cd новая папка
+
+git status
+>красным
+
+git add имя файла
+>зеленым
+>после изменнения снова эта команда
